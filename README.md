@@ -7,7 +7,7 @@ A documented enterprise-style cybersecurity laboratory developed during a techni
 
 ## Architecture
 
-![Cybersecurity laboratory architecture](assets/security_architecture.png)
+![Cybersecurity laboratory architecture](security_architecture.png)
 
 The laboratory is organized into three main areas:
 
@@ -30,11 +30,11 @@ The laboratory is organized into three main areas:
 
 ### Wazuh Monitoring
 
-![Wazuh monitoring](assets/wazuh_agents.png)
+![Wazuh monitoring](wazuh_agents.png)
 
 ### Suricata Monitoring
 
-![Suricata monitoring](assets/suricata_monitoring.png)
+![Suricata monitoring](suricata_monitoring.png)
 
 ## Technologies
 
